@@ -20,7 +20,7 @@ function FindIntersection(strArr) {
       result.push(element)
     }
   }
-  return result.length ? result.join(', ') : false; 
+  return result.length ? result.join(',') : false; 
 }
    
 // keep this function call here 
